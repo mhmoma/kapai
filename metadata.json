@@ -1,0 +1,6 @@
+{
+  "name": "魔塔 (MAOTA)",
+  "description": "魔塔 (MAOTA)：复古点阵风格的肉鸽卡牌构筑游戏，包含三大职业、爬塔地图、篝火锻造与遗物系统。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
